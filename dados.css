@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+.botao{
+    background-image: linear-gradient(to bottom, rgb(40, 57, 209), rgb(121, 176, 182), rgb(38, 173, 119));
+    border-radius: 5px;
+    padding: 5px 5px;
+    text-align: center;
+    font-size: 16px;
+    margin: 2px 0px;
+    cursor: pointer;
+} 
+.conteudo{
+    display: flex;
+}
+/* Estilos para tabela dos elementos da página de elementos */
+.tabela{
+    margin: 10px;
+    padding: 10px;
+}
+.divTabela{
+    color: white;
+    box-sizing: border-box;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+    width: 100%;
+    margin: auto;
+}
+#paragrafo{
+    color: white;
+}
